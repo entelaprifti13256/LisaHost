@@ -4,6 +4,8 @@
 
 LisaHost（丽萨主机）是一家成立于2017年的主机服务提供商，总部位于香港新界，主要业务涵盖CDN、域名注册、服务器租赁和VPS销售。其VPS产品基于KVM虚拟架构，数据中心主要位于美国洛杉矶，并采用CN2 GIA线路。LisaHost以稳定的配置、合理的带宽和优秀的防御性能而著称。
 
+![image](https://github.com/entelaprifti13256/LisaHost/assets/167663427/52369df4-95ee-4edc-b70a-ad97670b4382)
+
 ## 丽萨主机官网地址
 
 - [https://www.lisahost.com/](https://lisahost.com/aff.php?aff=1587)
